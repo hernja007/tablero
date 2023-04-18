@@ -12,6 +12,7 @@
     </div>
     <div class="container">
         <h1>pues no se diga mas aqui andamos todo bien, quiero pensar que estamos bien</h1>
+        <h2>Una cosa chida, pero esto no se puede omitir</h2>
     </div>
 </body>
 </html>
