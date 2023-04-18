@@ -9,6 +9,7 @@
 <body>
     <div class="container">
         <h1>Que onda con todo esto</h1>
+        <h2>Agregamos algo nuevo</h2>
     </div>
 </body>
 </html>
